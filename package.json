@@ -1,0 +1,22 @@
+{
+  "name": "duda",
+  "version": "1.0.0",
+  "description": "Suporte de automaçao de chamados Telegram",
+  "main": "index.js",
+  "dependencies": {
+    "cassandra-driver": "^4.5.2",
+    "mysql": "^2.18.1",
+    "node-telegram-bot-api": "^0.27.1",
+    "nodemailer": "^6.4.11",
+    "ping": "^0.4.1",
+    "ping-wrapper": "0.0.3",
+    "sys": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon inde.js"
+  },
+  "author": "Moura",
+  "license": "ISC"
+}

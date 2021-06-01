@@ -2,4 +2,4 @@
 # suporteduda
 BOTA TELEGRAM PRA ABERTURA DE CHAMADOS.
 Nodejs mysql 
-
+Install   npm install && npm i nodemon

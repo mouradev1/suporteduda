@@ -1,4 +1,4 @@
-![photo_2021-04-15_17-28-40](https://user-images.githubusercontent.com/41293409/114934279-15f56080-9e10-11eb-9ca9-25cdf7031651.jpg)
+![image](https://user-images.githubusercontent.com/41293409/120337086-61cd6d80-c2c9-11eb-9613-824593d48117.png)
 # suporteduda
 BOTA TELEGRAM PRA ABERTURA DE CHAMADOS.
 Nodejs mysql

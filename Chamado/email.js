@@ -3,12 +3,12 @@ function Email(id, assunto, emailNome) {
     console.log(`Dados por email ${id} ${assunto}`);
     // Vamos criar a conta que irá mandar os e-mails
     var conta = nodemailer.createTransport({
-        service: 'stylesuporte@gmail.com', // Existem outros services, você pode procurar
+        service: 'seu email@gmail.com', // Existem outros services, você pode procurar
         // na documentação do nodemailer como utilizar
         // os outros serviços
         auth: {
-            user: 'stylesuporte@gmail.com', // Seu usuário no Gmail
-            pass: '@meumundoeoseu' // A senha da sua conta no Gmail :-)
+            user: 'seu email@gmail.com', // Seu usuário no Gmail
+            pass: 'sua senha' // A senha da sua conta no Gmail :-)
         }
     });
 

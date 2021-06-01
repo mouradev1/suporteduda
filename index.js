@@ -15,9 +15,6 @@ bot.on('message', function (msg) {
     let update = msg.text.toLowerCase().indexOf('/update');
     let ping = msg.text.toLowerCase().indexOf('/ping');
 
-    // if (oi != -1) Ola(msg);
-    //else if (lojas != -1) Lojas(msg);
-    //else naoEntendiPatrao(msg);
 });
 
 bot.onText(/\/start/, (msg) => {

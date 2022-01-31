@@ -24,7 +24,7 @@ bot.onText(/\/start/, (msg) => {
     bot.sendMessage(chatId, mensagem, { parse_mode: "Markdown" });
 });
 
-function Data(data) { //Captura data atual
+function Data(data) { //Captura da Data atual, verifica codigo 
     var data = new Date(new Date().toString().split('GMT')[0] + ' UTC').toISOString().split('.')[0].replace('T', ' ');
     return data;
 }
